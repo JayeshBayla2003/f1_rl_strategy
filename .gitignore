@@ -1,0 +1,7 @@
+# .gitignore for Python projects
+venv/
+__pycache__/
+*.pyc
+data/
+notebooks/
+*.pth 
